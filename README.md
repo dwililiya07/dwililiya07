@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dwililiya07/dwililiya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you'll find projects, experiments, and contributions that reflect my passion for coding and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on AI Project, especially NLP
+
+🌱 I’m learning Data Analysis, Machine Learning, Deep Learning, AI Framework like PyTorch, etc.
+
+💬 Ask me about data science or AI development
+
+📫 How to reach me: dwililiya@gmail.com
+
+🛠️ Technologies & Tools
+
+* Programming Languange: Python, SQL, HTML, CSS
+* Frameworks & Libraries: PyTorch, Scikit-Learn, Transformers
+* Databases: MySQL
+
+🔗 Let's Connect!
+
+* LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dwililiya/)
+
+* Hugging Face: [My Hugging Face](https://huggingface.co/dwililiya)
+
+* Web Portofolio: [My Website](https://www.datascienceportfol.io/dwililiya)
+
+Thanks for stopping by! 🚀
