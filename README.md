@@ -12,18 +12,24 @@ Welcome to my GitHub profile! Here, you'll find projects, experiments, and contr
 
 📫 How to reach me: dwililiya@gmail.com
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 * Programming Languange: Python, SQL, HTML, CSS
 * Frameworks & Libraries: PyTorch, Scikit-Learn, Transformers
 * Databases: MySQL
+  
+## 📈 GitHub Stats
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwililiya07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwililiya07&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 🔗 Let's Connect!
 
 * LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dwililiya/)
 
 * Hugging Face: [My Hugging Face](https://huggingface.co/dwililiya)
-
-* Web Portofolio: [My Website](https://www.datascienceportfol.io/dwililiya)
 
 Thanks for stopping by! 🚀
